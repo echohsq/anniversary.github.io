@@ -1,0 +1,12 @@
+@import url('https://fonts.font.im/css?family=Concert+One|Libre+Baskerville|Lobster|Source+Sans+Pro:200,600,900|Open+Sans+Condensed:300,300italic,700&subset=latin,latin-ext');
+
+html {
+  font-size: 10px;
+}
+
+body {
+  /* 去掉滚动条 */
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
